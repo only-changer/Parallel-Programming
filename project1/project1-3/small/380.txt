@@ -1,0 +1,4 @@
+[
+  "Allotropes",
+  "#REDIRECT [[Allotropy]] \n \n {{R from plural}}"
+]

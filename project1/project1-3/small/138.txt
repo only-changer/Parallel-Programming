@@ -1,0 +1,4 @@
+[
+  "Afghanistan/Military",
+  "#REDIRECT [[Afghan Armed Forces]] \n \n {{Redirect category shell|1= \n {{R from subpage}} \n }}"
+]

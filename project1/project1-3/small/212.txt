@@ -1,0 +1,4 @@
+[
+  "Al Gore/Criticisms",
+  "#REDIRECT [[Al Gore]] \n \n {{Redirect category shell|1= \n {{R from subpage}} \n }}"
+]

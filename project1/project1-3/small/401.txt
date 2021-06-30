@@ -1,0 +1,4 @@
+[
+  "Alphonso XII",
+  "#REDIRECT [[Alfonso XII]]"
+]

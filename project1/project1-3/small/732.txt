@@ -1,0 +1,4 @@
+[
+  "Aromatic hydrocarbon",
+  "#REDIRECT [[Aromatic compound]] \n \n {{Redirect category shell| \n {{R from move}} \n {{R from merge}} \n {{R with possibilities}} \n {{R printworthy}} \n }} \n {{Wikidata-redirect}}"
+]

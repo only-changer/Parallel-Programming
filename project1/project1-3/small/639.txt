@@ -1,0 +1,4 @@
+[
+  "Antwerp (disambiguation)",
+  "'''[[Antwerp]]''' is a city in Belgium and capital of the Antwerp province. \n \n '''Antwerp''' may also refer to: \n \n ;In Belgium \n * [[Antwerp (district)]] \n * [[Antwerp (province)]] \n \n ;In the United States \n * [[Antwerp, Ohio]] \n * [[Antwerp Township, Michigan]] \n * [[Antwerp (village), New York]] \n * [[Antwerp (town), New York]] \n \n ;In Australia \n *[[Antwerp, Victoria]] \n \n == Other == \n *[[Port of Antwerp]] \n *[[Royal Antwerp FC]], a football club \n *[[Antwerp (novel)|''Antwerp'' (novel)]], by Roberto Bola\u00f1o \n *''Antwerp'', a poem by [[Ford Madox Ford]] \n \n ==See also== \n *{{lookfrom|Antwerp}} \n *{{intitle|Antwerp}} \n \n {{disambiguation|geo}} \n {{DEFAULTSORT:Antwerp (Disambiguation)}}"
+]

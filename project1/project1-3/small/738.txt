@@ -1,0 +1,4 @@
+[
+  "Arthritus",
+  "#REDIRECT [[Arthritis]]"
+]

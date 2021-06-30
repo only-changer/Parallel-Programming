@@ -1,0 +1,4 @@
+[
+  "Australian Prime Ministers",
+  "#REDIRECT [[Prime Minister of Australia]]"
+]

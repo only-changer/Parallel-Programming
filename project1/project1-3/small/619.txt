@@ -1,0 +1,4 @@
+[
+  "Antigua and Barbuda/Transnational issues",
+  "#REDIRECT [[Foreign relations of Antigua and Barbuda]] \n \n {{Redirect category shell|1= \n {{R from subpage}} \n }}"
+]

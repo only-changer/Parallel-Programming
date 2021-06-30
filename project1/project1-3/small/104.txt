@@ -1,0 +1,4 @@
+[
+  "Ada Byron's notes on the analytical engine",
+  "#REDIRECT [[Ada Lovelace#Ada Byron's notes on the analytical engine]] \n {{R to section}}"
+]

@@ -1,0 +1,4 @@
+[
+  "Geography of American Samoa",
+  "#REDIRECT [[American Samoa#Geography]] \n \n {{Redirect category shell| \n {{R to section}} \n }}"
+]

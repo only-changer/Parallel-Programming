@@ -1,0 +1,4 @@
+[
+  "Afro-asiatic languages",
+  "#REDIRECT [[Afroasiatic languages]] \n \n {{Redirect category shell|1= \n {{R from other capitalisation}} \n }}"
+]

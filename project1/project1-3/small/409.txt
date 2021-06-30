@@ -1,0 +1,4 @@
+[
+  "Alternative history",
+  "#REDIRECT [[Alternate history]]"
+]

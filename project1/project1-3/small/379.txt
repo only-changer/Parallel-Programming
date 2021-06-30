@@ -1,0 +1,4 @@
+[
+  "Allotrope",
+  "#REDIRECT [[Allotropy]] \n \n {{Redirect category shell|1= \n {{r from modification}} \n }}"
+]

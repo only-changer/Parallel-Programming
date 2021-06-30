@@ -1,0 +1,4 @@
+[
+  "Accessible computing",
+  "#REDIRECT [[Computer accessibility]]"
+]

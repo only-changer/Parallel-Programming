@@ -1,0 +1,4 @@
+[
+  "Ascorbic Acid",
+  "#REDIRECT [[Vitamin C]] \n \n {{Redirect category shell|1= \n {{R from capital}} \n }}"
+]

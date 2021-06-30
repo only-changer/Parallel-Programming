@@ -1,0 +1,4 @@
+[
+  "Astronomers and Astrophysicists",
+  "#REDIRECT [[Astronomer]]"
+]

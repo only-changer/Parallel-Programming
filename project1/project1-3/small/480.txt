@@ -1,0 +1,4 @@
+[
+  "Amhrann na bhFiann",
+  "#REDIRECT [[Amhr\u00e1n na bhFiann]]"
+]

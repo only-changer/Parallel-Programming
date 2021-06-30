@@ -1,0 +1,4 @@
+[
+  "Apocrypha/Tanakh",
+  "#REDIRECT [[Hebrew Bible]] \n \n {{Redirect category shell|1= \n {{R from subpage}} \n }}"
+]

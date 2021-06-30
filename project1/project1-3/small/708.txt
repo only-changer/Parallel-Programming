@@ -1,0 +1,4 @@
+[
+  "Argentina/Foreign relations",
+  "#REDIRECT [[Foreign relations of Argentina]] \n \n {{Redirect category shell|1= \n {{R from subpage}} \n }} \n \n {{nahmc|Foreign relations of Argentina}}"
+]

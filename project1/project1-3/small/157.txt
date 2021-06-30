@@ -1,0 +1,4 @@
+[
+  "Africa/History",
+  "#REDIRECT [[History of Africa]]"
+]

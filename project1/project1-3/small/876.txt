@@ -1,0 +1,4 @@
+[
+  "Automated Alice/III",
+  "#REDIRECT [[Automated Alice]] \n \n {{R from subpage}}"
+]

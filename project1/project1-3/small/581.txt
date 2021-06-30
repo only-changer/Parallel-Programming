@@ -1,0 +1,4 @@
+[
+  "Angle tribe",
+  "#REDIRECT [[Angles]]"
+]

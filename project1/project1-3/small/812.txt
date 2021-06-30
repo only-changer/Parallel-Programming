@@ -1,0 +1,4 @@
+[
+  "Atomic bomb",
+  "#REDIRECT [[Nuclear weapon]] \n \n {{Redirect category shell|1= \n {{R from related word}} \n {{R printworthy}} \n }}"
+]

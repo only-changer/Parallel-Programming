@@ -1,0 +1,4 @@
+[
+  "Aland",
+  "#REDIRECT [[\u00c5land Islands]]"
+]

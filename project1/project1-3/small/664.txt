@@ -1,0 +1,4 @@
+[
+  "Applied discrete math",
+  "#REDIRECT [[Discrete mathematics]]"
+]

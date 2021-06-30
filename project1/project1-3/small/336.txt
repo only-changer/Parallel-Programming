@@ -1,0 +1,4 @@
+[
+  "Alfonso VI",
+  "#REDIRECT [[Alfonso VI of Le\u00f3n and Castile]] \n \n {{Redirect category shell| \n {{R from less specific name}} \n {{R from short name}} \n }}"
+]

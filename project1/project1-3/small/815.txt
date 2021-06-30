@@ -1,0 +1,4 @@
+[
+  "Atomic orbitals",
+  "#REDIRECT [[Atomic orbital]] \n \n {{Redirect category shell|1= \n {{R from plural}} \n }}"
+]

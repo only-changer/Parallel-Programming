@@ -1,0 +1,4 @@
+[
+  "Aidan of Dalriada",
+  "#REDIRECT [[\u00c1ed\u00e1n mac Gabr\u00e1in]]"
+]

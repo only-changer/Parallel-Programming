@@ -1,0 +1,4 @@
+[
+  "Actress",
+  "#REDIRECT [[Actor]] \n \n {{Rcat shell| \n {{R from gender}} \n {{R from move}} \n {{R hatnote}} \n {{R printworthy}} \n }}"
+]

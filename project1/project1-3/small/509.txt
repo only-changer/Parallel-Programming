@@ -1,0 +1,4 @@
+[
+  "Anacreon (poet)",
+  "#REDIRECT [[Anacreon]]"
+]

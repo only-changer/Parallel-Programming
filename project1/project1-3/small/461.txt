@@ -1,0 +1,4 @@
+[
+  "American bias",
+  "#REDIRECT [[Americentrism]]"
+]

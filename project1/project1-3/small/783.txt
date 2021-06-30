@@ -1,0 +1,4 @@
+[
+  "Asterism",
+  "{{Wiktionary|asterism}} \n '''Asterism''' may refer to: \n \n * [[Asterism (astronomy)]], a pattern of stars \n * [[Asterism (gemology)]], an optical phenomenon in gemstones \n * [[Asterism (typography)]], (\u2042) a moderately rare typographical symbol denoting a break in passages \n \n ==See also== \n * {{lookfrom}} \n * {{intitle}} \n * [[Aster (disambiguation)]] \n \n {{disambiguation}}"
+]

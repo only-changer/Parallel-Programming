@@ -1,0 +1,4 @@
+[
+  "Astronomical Unit",
+  "#REDIRECT [[Astronomical unit]] \n \n {{Redirect category shell|1= \n {{R from other capitalisation}} \n }}"
+]

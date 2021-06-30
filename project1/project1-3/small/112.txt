@@ -1,0 +1,4 @@
+[
+  "ADHD",
+  "#REDIRECT [[Attention deficit hyperactivity disorder]] \n \n {{Redirect category shell|1= \n {{R from initialism}} \n {{R mentioned in hatnote}} \n {{R printworthy}} \n }}"
+]

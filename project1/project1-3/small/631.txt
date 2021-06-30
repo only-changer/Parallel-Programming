@@ -1,0 +1,4 @@
+[
+  "Antoine Laurent Lavoisier",
+  "#REDIRECT [[Antoine Lavoisier]] \n \n {{Redirect category shell|1= \n {{R from full name}} \n }}"
+]

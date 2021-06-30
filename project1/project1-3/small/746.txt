@@ -1,0 +1,4 @@
+[
+  "Artificial languages",
+  "#REDIRECT [[Artificial language]] \n \n {{Rcat shell| \n {{R from plural}} \n }}"
+]

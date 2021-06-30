@@ -1,0 +1,4 @@
+[
+  "Albategnius",
+  "#REDIRECT [[Al-Battani]]"
+]

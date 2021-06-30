@@ -1,0 +1,4 @@
+[
+  "Aquinas",
+  "#REDIRECT [[Thomas Aquinas]]"
+]

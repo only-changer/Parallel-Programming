@@ -1,0 +1,4 @@
+[
+  "Augustine",
+  "#REDIRECT [[Augustine of Hippo]]"
+]

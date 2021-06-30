@@ -1,0 +1,4 @@
+[
+  "Astronomical aberration",
+  "#REDIRECT [[Aberration (astronomy)]]"
+]

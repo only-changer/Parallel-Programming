@@ -1,0 +1,4 @@
+[
+  "ArtificalLanguages",
+  "#REDIRECT [[Constructed language]] \n \n {{Rcat shell| \n {{R from move}} \n {{R from misspelling|Artificial languages}} \n {{R from CamelCase}} \n {{Unprintworthy redirect}} \n }}"
+]

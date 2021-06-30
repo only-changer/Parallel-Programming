@@ -1,0 +1,4 @@
+[
+  "Albert Arnold Gore/Criticisms",
+  "#REDIRECT [[Al Gore]]"
+]

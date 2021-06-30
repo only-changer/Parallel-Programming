@@ -1,0 +1,4 @@
+[
+  "Albert I of Hapsburg",
+  "#REDIRECT [[Albert I of Germany]]"
+]

@@ -1,0 +1,4 @@
+[
+  "Abiotic factors",
+  "#REDIRECT [[Abiotic component]]"
+]

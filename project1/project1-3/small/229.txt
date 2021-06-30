@@ -1,0 +1,4 @@
+[
+  "Albania/People",
+  "#REDIRECT [[Demographics of Albania]] \n \n {{Redirect category shell|1= \n {{R from subpage}} \n }}"
+]

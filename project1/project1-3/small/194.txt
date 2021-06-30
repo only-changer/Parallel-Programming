@@ -1,0 +1,4 @@
+[
+  "AI",
+  "#REDIRECT [[Artificial intelligence]] \n \n {{Redirect category shell|1= \n {{R from move}} \n {{R from merge}} \n {{R from initialism}} \n {{R hatnote}} \n {{R printworthy}} \n }}"
+]

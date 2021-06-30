@@ -1,0 +1,4 @@
+[
+  "Amide hydrolysis",
+  "#REDIRECT [[Hydrolysis#Hydrolysis_of_amide_links]] \n \n {{R to section}}"
+]

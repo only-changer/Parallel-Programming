@@ -1,0 +1,4 @@
+[
+  "AsWeMayThink",
+  "#REDIRECT [[As_We_May_Think]] \n \n {{Redirect category shell|1= \n  {{R from CamelCase}} \n }}"
+]

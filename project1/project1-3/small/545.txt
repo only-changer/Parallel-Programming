@@ -1,0 +1,4 @@
+[
+  "Ancient civilization",
+  "#REDIRECT [[Civilization]] \n \n {{Rcat shell| \n {{R from merge}} \n {{R long}} \n {{R subtopic}} \n {{R p}} \n }}"
+]

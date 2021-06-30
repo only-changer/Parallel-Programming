@@ -1,0 +1,4 @@
+[
+  "Adirondacks",
+  "#REDIRECT [[Adirondack Mountains]] \n \n {{Redirect category shell|1= \n {{R from alternative name}} \n }}"
+]

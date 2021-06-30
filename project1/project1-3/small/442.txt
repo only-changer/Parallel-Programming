@@ -1,0 +1,4 @@
+[
+  "AmbientCalculusOnline",
+  "#REDIRECT [[Ambient calculus]] \n \n {{Redirect category shell|1= \n {{R from CamelCase}} \n }}"
+]

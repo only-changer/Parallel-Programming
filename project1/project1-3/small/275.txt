@@ -1,0 +1,4 @@
+[
+  "Aleksandr Isaevich Solzhenitsyn",
+  "#REDIRECT [[Aleksandr_Solzhenitsyn]]"
+]

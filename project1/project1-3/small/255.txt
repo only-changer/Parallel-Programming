@@ -1,0 +1,4 @@
+[
+  "Albert the Degenerate",
+  "#REDIRECT [[Albert II, Margrave of Meissen]]"
+]

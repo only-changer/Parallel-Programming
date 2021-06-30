@@ -1,0 +1,4 @@
+[
+  "Government of Antarctica",
+  "#REDIRECT [[Antarctic Treaty System]]"
+]

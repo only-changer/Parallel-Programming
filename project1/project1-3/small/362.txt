@@ -1,0 +1,4 @@
+[
+  "ALICE",
+  "#REDIRECT [[Alice]] \n \n {{Redirect category shell|{{R from capitalization}}{{R from ambiguous page}}}} \n \n [[fr:ALICE]] \n [[ja:Alice]] \n [[pl:ALICE]] \n [[ru:ALICE (\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f)]]"
+]

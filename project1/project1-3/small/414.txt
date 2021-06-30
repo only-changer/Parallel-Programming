@@ -1,0 +1,4 @@
+[
+  "Alured of Berkeley",
+  "#REDIRECT [[Alfred of Beverley]]"
+]

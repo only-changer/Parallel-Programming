@@ -1,0 +1,4 @@
+[
+  "Alfonso IX of Spain",
+  "#REDIRECT [[Alfonso IX of Le\u00f3n]]"
+]

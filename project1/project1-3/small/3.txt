@@ -1,0 +1,4 @@
+[
+  "A priori and a posteriori knowledge",
+  "#REDIRECT [[A priori and a posteriori]]"
+]

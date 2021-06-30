@@ -1,0 +1,4 @@
+[
+  "Algernon Swinburne",
+  "#REDIRECT [[Algernon Charles Swinburne]] \n \n {{Redirect category shell| \n {{R from short name}} \n }}"
+]

@@ -1,0 +1,4 @@
+[
+  "Alphonsus a Sancta Maria",
+  "#REDIRECT [[Alfonso de Cartagena]]"
+]

@@ -1,0 +1,4 @@
+[
+  "Argument form",
+  "#REDIRECT [[Logical form]]"
+]

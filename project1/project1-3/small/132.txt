@@ -1,0 +1,4 @@
+[
+  "Afghanistan (1911 Encyclopedia)",
+  "#REDIRECT [[Afghanistan]]"
+]

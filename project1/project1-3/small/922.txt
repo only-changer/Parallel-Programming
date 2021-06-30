@@ -1,0 +1,4 @@
+[
+  "Economy of Antarctica",
+  "#REDIRECT [[Antarctica#Economy]] \n \n {{Redirect category shell|1= \n {{R from merge|Antarctica#Economy}} \n }} \n \n [[Category:Economy of Antarctica| ]] \n [[Category:Economies by continent|Antarctica]]"
+]

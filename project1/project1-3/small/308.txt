@@ -1,0 +1,4 @@
+[
+  "Alexander VII",
+  "#REDIRECT [[Pope Alexander VII]]"
+]

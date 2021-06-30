@@ -1,0 +1,4 @@
+[
+  "Australia/Transnational issues",
+  "#REDIRECT [[Foreign relations of Australia]] \n \n {{Redirect category shell|1= \n {{R from subpage}} \n }}"
+]

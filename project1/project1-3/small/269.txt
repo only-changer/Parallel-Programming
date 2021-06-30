@@ -1,0 +1,4 @@
+[
+  "ALCS",
+  "#REDIRECT [[American League Championship Series]]"
+]

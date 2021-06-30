@@ -1,0 +1,4 @@
+[
+  "A.D.",
+  "#REDIRECT [[Anno Domini]] \n \n {{Redirect category shell|1= \n {{R from initialism}} \n }}"
+]

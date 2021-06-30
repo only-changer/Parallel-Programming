@@ -1,0 +1,4 @@
+[
+  "Agma",
+  "#REDIRECT [[Voiced velar nasal]]"
+]

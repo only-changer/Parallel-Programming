@@ -1,0 +1,4 @@
+[
+  "AfricA",
+  "#REDIRECT [[Africa]] \n \n {{Redirect category shell| \n {{R from CamelCase}} \n {{R unprintworthy}} \n {{R with old history}} \n }}"
+]

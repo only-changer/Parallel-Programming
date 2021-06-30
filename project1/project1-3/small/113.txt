@@ -1,0 +1,4 @@
+[
+  "Adhemar de Chabannes",
+  "#Redirect [[Ad\u00e9mar de Chabannes]] \n \n {{Redirect category shell|1= \n {{R from title without diacritics}} \n }}"
+]

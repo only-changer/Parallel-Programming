@@ -1,0 +1,4 @@
+[
+  "Topics of note in Atlas Shrugged",
+  "#REDIRECT [[Atlas Shrugged]]"
+]

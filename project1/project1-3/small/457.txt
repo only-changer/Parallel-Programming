@@ -1,0 +1,4 @@
+[
+  "AmericA",
+  "#REDIRECT [[United States]] \n \n {{Redirect category shell| \n {{R from miscapitalisation|America}} \n {{R avoided double redirect|America}} \n {{R from CamelCase}} \n {{R with history}} \n }}"
+]

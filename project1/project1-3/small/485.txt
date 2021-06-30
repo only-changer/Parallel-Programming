@@ -1,0 +1,4 @@
+[
+  "Amino group",
+  "#redirect [[amine]]"
+]

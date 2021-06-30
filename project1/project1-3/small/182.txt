@@ -1,0 +1,4 @@
+[
+  "AgoraNomic",
+  "#REDIRECT [[Nomic]]"
+]

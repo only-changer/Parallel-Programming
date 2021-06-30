@@ -1,0 +1,4 @@
+[
+  "AccessibleComputing",
+  "#REDIRECT [[Computer accessibility]] \n \n {{rcat shell| \n {{R from move}} \n {{R from CamelCase}} \n {{R unprintworthy}} \n }}"
+]

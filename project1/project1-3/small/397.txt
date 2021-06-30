@@ -1,0 +1,4 @@
+[
+  "Alphonso VIII of Spain",
+  "#REDIRECT [[Alfonso VIII of Castile]]"
+]

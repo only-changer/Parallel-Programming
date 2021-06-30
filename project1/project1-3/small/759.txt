@@ -1,0 +1,4 @@
+[
+  "Ashmore and Cartier Islands/Government",
+  "#REDIRECT [[Ashmore and Cartier Islands#Government]] \n \n {{Redirect category shell| \n {{R from subpage}} \n {{R to section}} \n }}"
+]

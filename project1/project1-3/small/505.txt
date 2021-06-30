@@ -1,0 +1,4 @@
+[
+  "An Enquiry Concerning Human Understanding/Text",
+  "#REDIRECT [[An Enquiry Concerning Human Understanding]]"
+]

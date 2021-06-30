@@ -1,0 +1,4 @@
+[
+  "Antonio Gaudi/Sagrada Familia",
+  "#REDIRECT [[Sagrada Fam\u00edlia]] \n \n {{Redirect category shell|1= \n {{R from subpage}} \n }}"
+]

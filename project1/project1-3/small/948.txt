@@ -1,0 +1,4 @@
+[
+  "Military of Antarctica",
+  "#REDIRECT [[Military activity in the Antarctic]]"
+]

@@ -1,0 +1,4 @@
+[
+  "Antartic Treaty",
+  "#REDIRECT [[Antarctic Treaty System]] \n \n {{Redirect category shell|1= \n {{R from move}} \n {{R from misspelling}} \n {{R unprintworthy}} \n }}"
+]

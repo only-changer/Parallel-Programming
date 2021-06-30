@@ -1,0 +1,4 @@
+[
+  "Argot",
+  "#REDIRECT [[Cant (language)#Argot]] {{R from merge}} {{R to section}} \n \n [[Category:Cant languages]] \n [[Category:Folklore]]"
+]

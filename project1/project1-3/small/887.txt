@@ -1,0 +1,4 @@
+[
+  "AutoRacing",
+  "#REDIRECT [[Auto racing]] \n \n {{Redirect category shell|1= \n {{R from CamelCase}} \n }}"
+]

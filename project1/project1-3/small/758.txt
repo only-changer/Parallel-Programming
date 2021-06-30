@@ -1,0 +1,4 @@
+[
+  "Ashmore and Cartier Islands/Geography",
+  "#REDIRECT [[Ashmore and Cartier Islands#Geography]] \n \n {{Redirect category shell| \n {{R from subpage}} \n {{R to section}} \n }}"
+]

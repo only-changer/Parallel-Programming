@@ -1,0 +1,4 @@
+[
+  "Arithmetic and logic unit",
+  "#REDIRECT [[Arithmetic logic unit]]"
+]

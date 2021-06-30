@@ -1,0 +1,4 @@
+[
+  "Albert III, Elector of Saxony",
+  "#REDIRECT [[Albert III, Duke of Saxony]]"
+]

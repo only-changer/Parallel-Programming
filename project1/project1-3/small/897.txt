@@ -1,0 +1,4 @@
+[
+  "AyersMusicPublishingCompany",
+  "#REDIRECT [[Atlas Shrugged]] \n \n {{Redirect category shell|1= \n {{R from CamelCase}} \n {{R from phrase}} \n }}"
+]

@@ -1,0 +1,4 @@
+[
+  "Asia Minor (disambiguation)",
+  "{{Wiktionary|Asia Minor}} \n \n '''Asia Minor''' is an alternative name for [[Anatolia]], the westernmost protrusion of Asia, comprising the majority of the Republic of Turkey. \n \n '''Asia Minor''' may also refer to: \n \n * [[Asia Minor (album)|''Asia Minor'' (album)]], an album by Jamaican-born jazz trumpeter Dizzy Reece \n * [[Asia Minor (instrumental)| \" Asia Minor \"  (instrumental)]], a 1961 instrumental recording by Jimmy Wisner (operating under the name Kokomo) \n \n ==See also== \n * [[Asia Major (disambiguation)]] \n \n {{Disambiguation}}"
+]

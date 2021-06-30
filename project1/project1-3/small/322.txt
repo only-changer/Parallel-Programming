@@ -1,0 +1,4 @@
+[
+  "Alfonso Ar\u00e1u",
+  "#Redirect [[Alfonso Arau]]"
+]

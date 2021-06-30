@@ -1,0 +1,4 @@
+[
+  "Albert Gore",
+  "#redirect [[Al Gore]] \n \n {{Redirect category shell|1= \n {{R from full name}} \n }}"
+]

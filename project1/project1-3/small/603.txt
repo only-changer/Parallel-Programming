@@ -1,0 +1,4 @@
+[
+  "Annealing",
+  "{{Wiktionary|annealing}} \n '''Annealing''' may refer to: \n \n * [[Annealing (metallurgy)]], a heat treatment that alters the microstructure of a material \n * [[Annealing (glass)]], heating a piece of glass to remove stress \n * [[Annealing (biology)]], in genetics \n * [[Simulated annealing]], a numerical optimization technique \n * [[Quantum annealing]], a method for solving combinatorial optimisation problems and ground states of glassy systems \n \n {{disambiguation}}"
+]

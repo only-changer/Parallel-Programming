@@ -1,0 +1,4 @@
+[
+  "AnAmericanInParis",
+  "#REDIRECT [[An American in Paris]] \n \n {{Redirect category shell|1= \n {{R from CamelCase}} \n }}"
+]

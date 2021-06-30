@@ -1,0 +1,4 @@
+[
+  "Antarctic-Environmental Protocol",
+  "#REDIRECT [[Protocol on Environmental Protection to the Antarctic Treaty]]"
+]

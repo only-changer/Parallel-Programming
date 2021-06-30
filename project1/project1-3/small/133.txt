@@ -1,0 +1,4 @@
+[
+  "Afghanistan/Communications",
+  "#REDIRECT [[Communications in Afghanistan]] \n \n {{Redirect category shell| \n {{R from CamelCase}} \n {{R from subpage}} \n }}"
+]

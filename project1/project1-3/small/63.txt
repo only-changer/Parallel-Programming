@@ -1,0 +1,4 @@
+[
+  "Abstract Algebra",
+  "#REDIRECT [[Abstract algebra]] \n \n {{Redirect category shell|1= \n {{R from other capitalisation}} \n }}"
+]

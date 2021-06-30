@@ -1,0 +1,4 @@
+[
+  "Anglican Church",
+  "#REDIRECT [[Anglicanism]]"
+]

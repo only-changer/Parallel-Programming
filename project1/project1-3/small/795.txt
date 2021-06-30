@@ -1,0 +1,4 @@
+[
+  "Astronomical Units",
+  "#Redirect [[Astronomical unit]] \n \n {{Rcat shell| \n {{R move}} \n {{R from other capitalisation}} \n {{R from plural}} \n {{R unprintworthy}} \n }}"
+]

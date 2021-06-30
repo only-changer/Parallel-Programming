@@ -1,0 +1,4 @@
+[
+  "Transportation in American Samoa",
+  "#REDIRECT [[American Samoa]]"
+]

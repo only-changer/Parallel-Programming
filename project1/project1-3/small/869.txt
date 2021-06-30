@@ -1,0 +1,4 @@
+[
+  "Auteur Theory Film",
+  "#REDIRECT [[Auteur]]"
+]

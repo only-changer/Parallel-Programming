@@ -1,0 +1,4 @@
+[
+  "Ashmore and Cartier Islands/Economy",
+  "#REDIRECT [[Ashmore and Cartier Islands#Economy and migration]] \n \n {{Redirect category shell| \n {{R from subpage}} \n {{R to section}} \n }}"
+]

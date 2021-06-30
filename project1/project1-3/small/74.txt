@@ -1,0 +1,4 @@
+[
+  "AcademyAwards/BestPicture",
+  "#REDIRECT [[Academy Award for Best Picture]] \n \n {{Redirect category shell| \n {{R from CamelCase}} \n {{R from subpage}} \n }}"
+]

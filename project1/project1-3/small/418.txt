@@ -1,0 +1,4 @@
+[
+  "Alzheimers disease",
+  "#REDIRECT [[Alzheimer's disease]] \n \n {{Redirect category shell|1= \n {{R from missing punctuation}} \n }}"
+]

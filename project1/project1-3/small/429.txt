@@ -1,0 +1,4 @@
+[
+  "Amasis I",
+  "#REDIRECT [[Ahmose I]]"
+]

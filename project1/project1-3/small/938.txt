@@ -1,0 +1,4 @@
+[
+  "Human abdomen",
+  "#REDIRECT [[Abdomen]] \n \n {{Redirect category shell| \n {{R from unnecessary disambiguation}} \n }}"
+]

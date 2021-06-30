@@ -1,0 +1,4 @@
+[
+  "Amaltheia",
+  "#REDIRECT [[Amalthea (mythology)]]"
+]

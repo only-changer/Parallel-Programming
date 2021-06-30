@@ -1,0 +1,4 @@
+[
+  "Anarcho-capitalists",
+  "#REDIRECT [[anarcho-capitalism]]"
+]

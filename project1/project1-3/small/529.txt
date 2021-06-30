@@ -1,0 +1,4 @@
+[
+  "Anastasius III",
+  "#REDIRECT [[Pope Anastasius III]]"
+]

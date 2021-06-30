@@ -1,0 +1,4 @@
+[
+  "Ancient Greeks",
+  "#REDIRECT [[Ancient Greece]] \n \n {{Rcat shell| \n {{R move}} \n {{R related}} \n {{R unprintworthy}} \n }}"
+]

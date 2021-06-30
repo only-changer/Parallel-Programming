@@ -1,0 +1,4 @@
+[
+  "Ameboid stage",
+  "#REDIRECT [[Amoeba]]"
+]
